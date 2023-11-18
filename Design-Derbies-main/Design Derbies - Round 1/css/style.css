@@ -138,16 +138,13 @@ header.sticky ul li a {
   text-align: center;
 }
 
-<<<<<<< HEAD
-=======
 .home h1 {
-  font-family: 'Great Vibes', cursive;
+  font-family: "Great Vibes", cursive;
   font-size: 150px;
-  color: #CC8C18;
+  color: #cc8c18;
   padding-top: 10%;
 }
 
->>>>>>> 824b2de23a9d9b7c7939f5119ad041c7e5c68e3d
 .home p {
   color: rgb(36, 9, 159);
 }
