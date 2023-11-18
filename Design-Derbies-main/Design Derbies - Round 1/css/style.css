@@ -175,12 +175,12 @@ header.sticky ul li a {
 .home h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 150px;
-  color: white;
+  color: #CC8C18;
   padding-top: 10%;
 }
 
 .home p {
-  color: white;
+  color: rgb(36, 9, 159);
 }
 
 .home .content {
